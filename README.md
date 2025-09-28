@@ -2,15 +2,15 @@
 import Developer from "Gustavo Giovanoni";
 
 class AboutMe extends Developer {
-  nome = "Gustavo Giovanoni";
+  name = "Gustavo Giovanoni";
   area = "Fullstack-Developer";
-  trabalho = "Result Consultoria";
+  work = "Result Consultoria";
   local = "Brasil";
 }
 
 class Skills extends Developer {
-  linguagens = ["Typescript, Python"];
-  bibliotecas = ["React"];
-  frameworks = ["Next.js"];
+  language = ["Typescript, Python"];
+  libs = ["React"];
+  frameworks = ["Next.js, Expo"];
 }
 ```
